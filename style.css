@@ -121,7 +121,7 @@ body {
 
 /* top */
 .top {
-    background: url(img/header3.jpg) no-repeat;
+    background: url(header3.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
     height: 1000px;
